@@ -22,14 +22,8 @@ echo "
 <h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
+<h3><font color='green'>--- ۩ SERVER BY Romeo Dyler ۩ ---
 </font></h3>
-
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
-</font></h4>
-
-<h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
-</font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
